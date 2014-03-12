@@ -1,4 +1,4 @@
 Game
 ====
 
- A Facebook game developed using my GameWork class library
+ A game developed using my GameWork class library
